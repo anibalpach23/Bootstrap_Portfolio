@@ -1,8 +1,23 @@
-.img-reponsive {
-    width: 62px;
+
+#navBar {
+    background-color: black;
+    color: whitesmoke;
+}
+body {
+    background-image: url(../images/spiration-light.png);
+}
+
+#social {
+    width: 60%;
     height: auto;
 }
 
 footer {
+    margin-top: 15px;
+    padding-top: 15px;
     text-align: center;
+    background-color: black;
+    color: whitesmoke;
 }
+
+/*Media Query*/
