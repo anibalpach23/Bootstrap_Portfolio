@@ -28,8 +28,13 @@ footer {
         margin-top: 20px;
     }
     #social {
+        width: 40%;
+        height: auto;
+    }
+    #portfolioPic {
         width: 30%;
         height: auto;
     }
+
 }
 
